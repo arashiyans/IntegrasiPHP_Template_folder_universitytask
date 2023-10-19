@@ -19,4 +19,4 @@ Proyek ini dilisensikan di bawah Lisensi MIT. Lihat berkas [LISENSI](https://doc
 
 ---
 
-Terima kasih telah mengunjungi proyek ini. Kami harap website ini menjadi sumber inspirasi untuk Anda dalam belajar HTML dan CSS!
+Terima kasih telah mengunjungi proyek ini. Kami harap website ini menjadi sumber inspirasi untuk Anda dalam belajar PHP, Javascript dan CSS!
