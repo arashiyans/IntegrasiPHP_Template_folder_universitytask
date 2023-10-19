@@ -15,7 +15,7 @@ Kami sangat menghargai kontribusi Anda. Jika Anda ingin berkontribusi pada proye
 
 ## Lisensi
 
-Proyek ini dilisensikan di bawah Lisensi MIT. Lihat berkas [LISENSI](LISENSI) untuk detailnya.
+Proyek ini dilisensikan di bawah Lisensi MIT. Lihat berkas [LISENSI](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository) untuk detailnya.
 
 ---
 
