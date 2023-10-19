@@ -1,0 +1,52 @@
+body {
+            font-family: Arial, sans-serif;
+            background-color: #f7f7f7;
+        }
+        
+        #layoutSidenav_content {
+            padding: 20px;
+        }
+        
+        .card {
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+        
+        .card-header {
+            background-color: #007BFF;
+            color: #fff;
+            padding: 10px;
+        }
+        
+        .btn-primary {
+            background-color: #007BFF;
+            color: #fff;
+            padding: 5px 10px;
+            border: none;
+            text-decoration: none;
+        }
+        
+        .btn-primary:hover {
+            background-color: #0056b3;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        
+        th, td {
+            padding: 10px;
+            text-align: center;
+        }
+        
+        th {
+            background-color: #007BFF;
+            color: #fff;
+        }
+        
+        tbody tr:nth-child(odd) {
+            background-color: #f2f2f2;
+        }
+   
